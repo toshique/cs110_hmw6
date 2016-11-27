@@ -3,10 +3,10 @@ import shapes.rectangle;
 import utils.math;
 
 public class drive{
-	public static void main(String[] args){
+public static void main(String[] args){
     
-    		square s = new square(100);
-    		rectangle r = new rectangle(80, 50);
+    square s = new square(100);
+    rectangle r = new rectangle(80, 50);
     
 
 System.out.println(s.getArea());
